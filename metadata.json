@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS WEB OS",
+  "description": "Futuristic browser-based spatial operating system powered by in-browser MediaPipe hand tracking, gesture controls, presentation viewer, and focus workspace.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
